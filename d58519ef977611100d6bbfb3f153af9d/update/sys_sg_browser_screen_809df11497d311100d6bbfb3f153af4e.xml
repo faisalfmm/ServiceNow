@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <available_offline>true</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Link1">889df11497d311100d6bbfb3f153af4d</icon>
+        <name>QR Login</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 09:05:22</sys_created_on>
+        <sys_id>809df11497d311100d6bbfb3f153af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QR Login</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_809df11497d311100d6bbfb3f153af4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 09:05:22</sys_updated_on>
+        <url>https://dev123594.service-now.com/x/890542/login/login1</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=809df11497d311100d6bbfb3f153af4e"/>
+</record_update>

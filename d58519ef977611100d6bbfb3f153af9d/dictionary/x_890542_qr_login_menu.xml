@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Menu" max_length="40" name="x_890542_qr_login_menu" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Price" max_length="40" name="price" type="string"/>
+    </element>
+</database>

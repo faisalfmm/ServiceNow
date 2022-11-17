@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="DELETE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATE6</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 11:22:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a865e37973a51100d6bbfb3f153af92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE6</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_update_name>sys_template_4a865e37973a51100d6bbfb3f153af92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 11:22:56</sys_updated_on>
+        <table>sys_sg_applet_launcher</table>
+        <template/>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</application>
+        <file_path/>
+        <instance_id>6cdda2cbdb9d0150f37acac5059619a7</instance_id>
+        <instance_name>dev123594</instance_name>
+        <name>sys_template_4a865e37973a51100d6bbfb3f153af92</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template"><sys_template action="INSERT_OR_UPDATE"><active>true</active><global>false</global><group/><groups/><link_element/><name>TEMPLATE6</name><next/><next_child/><roles/><short_description/><show_on_template_bar>true</show_on_template_bar><stand_alone>false</stand_alone><sys_class_name>sys_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-03 11:22:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4a865e37973a51100d6bbfb3f153af92</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TEMPLATE6</sys_name><sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package><sys_policy/><sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope><sys_update_name>sys_template_4a865e37973a51100d6bbfb3f153af92</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-03 11:22:56</sys_updated_on><table>sys_sg_applet_launcher</table><template/><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user><view/></sys_template></record_update>]]></payload>
+        <payload_hash>-335799968</payload_hash>
+        <record_name>TEMPLATE6</record_name>
+        <reverted_from/>
+        <source>298519ef977611100d6bbfb3f153af9f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 11:22:56</sys_created_on>
+        <sys_id>3ac6d277973a51100d6bbfb3f153af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1843d3ad52a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 11:22:56</sys_updated_on>
+        <type>Template</type>
+        <update_guid>72c6d277943a5110cb7f2275b8c62b5b</update_guid>
+        <update_guid_history>72c6d277943a5110cb7f2275b8c62b5b:-335799968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 12:06:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_template">sys_template</sys_db_object>
+        <sys_id>150b3f7ae70b48a8894b67a924bbfe40</sys_id>
+        <sys_metadata>4a865e37973a51100d6bbfb3f153af92</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE6</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_scope_delete display_value="">2b6324e349a84f099915dfc00c4d3409</sys_scope_delete>
+        <sys_update_name>sys_template_4a865e37973a51100d6bbfb3f153af92</sys_update_name>
+        <sys_update_version display_value="sys_template_4a865e37973a51100d6bbfb3f153af92">3ac6d277973a51100d6bbfb3f153af5b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 12:06:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

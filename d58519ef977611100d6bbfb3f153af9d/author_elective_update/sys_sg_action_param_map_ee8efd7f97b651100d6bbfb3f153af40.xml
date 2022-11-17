@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Order new">5aa4cd7797f251100d6bbfb3f153af3e</button>
+        <item_parameter display_value="Order">27b7d9e397b611100d6bbfb3f153af73</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 09:38:02</sys_created_on>
+        <sys_id>ee8efd7f97b651100d6bbfb3f153af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>27b7d9e397b611100d6bbfb3f153af73</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ee8efd7f97b651100d6bbfb3f153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 09:38:02</sys_updated_on>
+        <ui_parameter display_value="Order">59464d7797f251100d6bbfb3f153af8b</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</application>
+        <file_path/>
+        <instance_id>6cdda2cbdb9d0150f37acac5059619a7</instance_id>
+        <instance_name>dev123594</instance_name>
+        <name>sys_sg_action_param_map_ee8efd7f97b651100d6bbfb3f153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Order new">5aa4cd7797f251100d6bbfb3f153af3e</button><item_parameter display_value="Order">27b7d9e397b611100d6bbfb3f153af73</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-03 09:38:02</sys_created_on><sys_id>ee8efd7f97b651100d6bbfb3f153af40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>27b7d9e397b611100d6bbfb3f153af73</sys_name><sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package><sys_policy/><sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope><sys_update_name>sys_sg_action_param_map_ee8efd7f97b651100d6bbfb3f153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-03 09:38:02</sys_updated_on><ui_parameter display_value="Order">59464d7797f251100d6bbfb3f153af8b</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>584987047</payload_hash>
+        <record_name>27b7d9e397b611100d6bbfb3f153af73</record_name>
+        <reverted_from/>
+        <source>298519ef977611100d6bbfb3f153af9f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 09:38:03</sys_created_on>
+        <sys_id>92cef17f97b651100d6bbfb3f153afc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1843cdacc840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 09:38:03</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>dacef17fc2b6511042a7f282edb4a3c0</update_guid>
+        <update_guid_history>dacef17fc2b6511042a7f282edb4a3c0:584987047</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 09:38:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>109b1c02cafb407b87af3ff6923c4379</sys_id>
+        <sys_metadata>ee8efd7f97b651100d6bbfb3f153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>27b7d9e397b611100d6bbfb3f153af73</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_scope_delete display_value="">2b6324e349a84f099915dfc00c4d3409</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_ee8efd7f97b651100d6bbfb3f153af40</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_ee8efd7f97b651100d6bbfb3f153af40">92cef17f97b651100d6bbfb3f153afc1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 09:38:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

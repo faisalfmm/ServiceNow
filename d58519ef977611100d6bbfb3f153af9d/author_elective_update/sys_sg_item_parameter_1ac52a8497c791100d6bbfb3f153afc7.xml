@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Asset Tag</name>
+        <parent>c0a32a8497c791100d6bbfb3f153af93</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 07:06:55</sys_created_on>
+        <sys_id>1ac52a8497c791100d6bbfb3f153afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Tag</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_1ac52a8497c791100d6bbfb3f153afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 07:06:55</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</application>
+        <file_path/>
+        <instance_id>6cdda2cbdb9d0150f37acac5059619a7</instance_id>
+        <instance_name>dev123594</instance_name>
+        <name>sys_sg_item_parameter_1ac52a8497c791100d6bbfb3f153afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Asset Tag</name><parent>c0a32a8497c791100d6bbfb3f153af93</parent><parent_table>sys_sg_data_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 07:06:55</sys_created_on><sys_id>1ac52a8497c791100d6bbfb3f153afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Asset Tag</sys_name><sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package><sys_policy/><sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope><sys_update_name>sys_sg_item_parameter_1ac52a8497c791100d6bbfb3f153afc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 07:06:55</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>662933971</payload_hash>
+        <record_name>Asset Tag</record_name>
+        <reverted_from/>
+        <source>298519ef977611100d6bbfb3f153af9f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 07:06:55</sys_created_on>
+        <sys_id>96c52a8497c791100d6bbfb3f153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1844176cb080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 07:06:55</sys_updated_on>
+        <type>Data parameter</type>
+        <update_guid>dec52a846ac79110144cca3266327bc8</update_guid>
+        <update_guid_history>dec52a846ac79110144cca3266327bc8:662933971</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 07:07:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>22c666fc39e14b26ab6f4ea3171328e4</sys_id>
+        <sys_metadata>1ac52a8497c791100d6bbfb3f153afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Tag</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_scope_delete display_value="">2b6324e349a84f099915dfc00c4d3409</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_1ac52a8497c791100d6bbfb3f153afc7</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_1ac52a8497c791100d6bbfb3f153afc7">96c52a8497c791100d6bbfb3f153afc9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 07:07:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

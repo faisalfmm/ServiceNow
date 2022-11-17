@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Scan</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="alm_asset">asset_tag={{Scan Tag}}<item endquery="false" field="asset_tag" goto="false" newquery="false" operator="=" or="false" value="{{Scan Tag}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 06:57:28</sys_created_on>
+        <sys_id>c0a32a8497c791100d6bbfb3f153af93</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Scan</sys_name>
+        <sys_package display_value="QR_login" source="x_890542_qr_login">d58519ef977611100d6bbfb3f153af9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR_login">d58519ef977611100d6bbfb3f153af9d</sys_scope>
+        <sys_update_name>sys_sg_data_item_c0a32a8497c791100d6bbfb3f153af93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 07:08:01</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0a32a8497c791100d6bbfb3f153af93"/>
+</record_update>
